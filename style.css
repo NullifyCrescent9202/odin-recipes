@@ -1,0 +1,46 @@
+
+h1 {
+    font-size: 50px;
+    color: #A67A46;
+    font-weight: bold;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 10.5px;
+}
+
+html {
+    font-weight: 1px;
+    line-height: 2.2rem;
+    text-align: center;
+    font-size: 25px;
+    color: #A67A46;
+    background-color: #011F26;
+    font-family: 'Poiret One', cursive;
+    margin-inline: auto;
+    width: min(100% - 4rem);
+}
+
+
+a {
+    font-size: 180%;
+    font-weight: bolder;
+    color: #A67A46;
+}
+
+
+img {
+    border-radius: 3px;
+    max-width: 100%;
+    display: block;
+    margin-inline: auto;
+    
+    
+}
+
+ol,
+ul {
+    list-style-type: none;
+}
